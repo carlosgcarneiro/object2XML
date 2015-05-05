@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pessoas>
+  <Pessoa id="1">
+    <nome>Carlos</nome>
+    <idade>24</idade>
+    <peso>74.0</peso>
+    <Celulares>
+      <Celular id="1">
+        <numero>84621872</numero>
+        <operadora>OI</operadora>
+      </Celular>
+      <Celular id="2">
+        <numero>94428261</numero>
+        <operadora>TIM</operadora>
+      </Celular>
+    </Celulares>
+  </Pessoa>
+  <Pessoa id="2">
+    <nome>Das Graças</nome>
+    <idade>58</idade>
+    <peso>50.0</peso>
+    <Celulares>
+      <Celular id="1">
+        <numero>88622039</numero>
+        <operadora>OI</operadora>
+      </Celular>
+    </Celulares>
+  </Pessoa>
+  <Pessoa id="3">
+    <nome>Mariana</nome>
+    <idade>23</idade>
+    <peso>59.0</peso>
+    <Celulares>
+      <Celular id="1">
+        <numero>85322742</numero>
+        <operadora>OI</operadora>
+      </Celular>
+    </Celulares>
+  </Pessoa>
+</Pessoas>
